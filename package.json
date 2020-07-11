@@ -1,0 +1,21 @@
+{
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "description": "Web speech ai chat bot",
+  "main": "app.js",
+  "scripts": {
+    "start": "NODE_ENV=production nodemon app",
+    "dev": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajid Ansari",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.1.0",
+    "colors": "^1.4.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "uuid": "^8.2.0"
+  }
+}
