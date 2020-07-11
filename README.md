@@ -2,6 +2,8 @@
 
 > This is a simple AI bot made with web speech api and [dialogflow](https://dialogflow.cloud.google.com/#/getStarted)
 
+![WebSpeechAiBOt](public/img/screenshot.PNG)
+
 This is how this web app works:
 
 1. Using the Web Speech API’s SpeechRecognition interface to listen your voice from a microphone.
