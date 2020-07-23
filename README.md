@@ -1,6 +1,6 @@
 # Web Speech AI Bot
 
-> This is a simple AI bot made with web speech api and [dialogflow](https://dialogflow.cloud.google.com/#/getStarted)
+> This is a simple AI bot made with nodejs, web speech api and [dialogflow](https://dialogflow.cloud.google.com/#/getStarted)
 
 ![WebSpeechAiBOt](public/img/screenshot.PNG)
 
