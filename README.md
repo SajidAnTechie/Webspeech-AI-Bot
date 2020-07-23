@@ -4,13 +4,13 @@
 
 ![WebSpeechAiBOt](public/img/screenshot.PNG)
 
-> The full tutorial can be found [Here](https://medium.com/swlh/building-an-ai-chat-bot-with-node-js-and-web-speech-api-93710b25114a)
-
 This is how this web app works:
 
 1. Using the Web Speech API’s SpeechRecognition interface to listen your voice from a microphone.
 1. Send your message to dialogflow agent (the natural language processing platform) as a text string.
 1. Once the AI from the agent returns the reply text back, use the SpeechSynthesis interface to give it a synthetic voice.
+
+### **The full tutorial can be found** [Here](https://medium.com/swlh/building-an-ai-chat-bot-with-node-js-and-web-speech-api-93710b25114a)
 
 ## Supported Browser
 
