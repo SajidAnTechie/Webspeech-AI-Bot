@@ -4,6 +4,8 @@
 
 ![WebSpeechAiBOt](public/img/screenshot.PNG)
 
+> The full tutorial can be found [Here](https://medium.com/swlh/building-an-ai-chat-bot-with-node-js-and-web-speech-api-93710b25114a)
+
 This is how this web app works:
 
 1. Using the Web Speech API’s SpeechRecognition interface to listen your voice from a microphone.
