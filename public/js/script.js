@@ -21,6 +21,7 @@ recognition.onresult = function (event) {
   console.log(text);
 
   outputme.textContent = text;
+
   socket.emit("chat message", text);
 };
 
