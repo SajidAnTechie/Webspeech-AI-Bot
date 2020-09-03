@@ -4,7 +4,7 @@
   "description": "Web speech ai chat bot",
   "main": "app.js",
   "scripts": {
-    "start": "NODE_ENV=production nodemon app",
+    "start": "NODE_ENV=production node app",
     "dev": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
