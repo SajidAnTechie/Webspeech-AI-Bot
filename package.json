@@ -14,7 +14,7 @@
     "@google-cloud/dialogflow": "^3.1.0",
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0",
     "uuid": "^8.2.0"
   }
