@@ -4,9 +4,8 @@
 
 ![WebSpeechAiBOt](public/img/screenshot.PNG)
 
-### [Live Preview](https://webspeechaibot.herokuapp.com/)
 
-This is how this web app works:
+This is how web app works:
 
 1. Using the Web Speech API’s SpeechRecognition interface to listen your voice from a microphone.
 1. Send your message to dialogflow agent (the natural language processing platform) as a text string.
